@@ -3,3 +3,5 @@ pandas
 plotly
 numpy
 st-gsheets-connection
+google
+gspread
